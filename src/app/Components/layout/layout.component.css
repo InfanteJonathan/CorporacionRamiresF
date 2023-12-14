@@ -1,0 +1,22 @@
+mat-toolbar{
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+
+mat-sidenav-container{
+    background-color: rgb(245, 245, 245);
+    
+}
+
+mat-sidenav{
+    background-color: rgb(161, 150, 224);
+}
+
+
+img {
+    margin-left: 13%;
+    margin-top: 150%;
+    width: 150px; /* Ajusta el ancho de la imagen según tus necesidades */
+    height: 150px; /* Ajusta la altura de la imagen según tus necesidades */
+    border-radius: 40%; /* Para hacer la imagen circular, ajusta según tus necesidades */
+}
